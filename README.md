@@ -6,15 +6,6 @@
 - `Backend Software Engineer` at Crypto Arsenal, leading Payment Gateway Team, integrating HTX to trading platform, and optimizing AWS Infra
 - `Pre-Software Engineer` at Realplus Tech, building backend systems for vehicle and blockly tools for drone
   
-## GitHub Stats
-
-<a href="https://github.com/timjtchang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=timjtchang&show_icons=true&theme=blueberry" />
-</a>
-<a href="https://github.com/timjtchang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timjtchang&layout=compact&theme=blueberry&langs_count=8" />
-</a>
-
 ## Where to Find Me
 
 <p>
