@@ -3,8 +3,8 @@
 ## About Me
 
 - Computer Engineering MS at University of Southern California '25
-- Backend Software Engineer at Crypto Arsenal (2024-present)
-  - Lead of the Crypto Payment Gateway Team
+- Backend Software Engineer at Crypto Arsenal (2024-2025)
+  - Built Backend for Crypto Payment Gateway
   - Integrated HTX into the trading platform
   - Optimized infrastructure on AWS
 - Software Engineer at Realplus Tech (2019-2023)
