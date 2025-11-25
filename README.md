@@ -10,13 +10,18 @@
 - Software Engineer at Realplus Tech (2019-2023)
   - Developed vehicle backend
   - Built visual programming tools for drones
- 
+
 ## Project Router
+
 - [Lemonaid AI Agent](https://github.com/Thousand-Dollar-Group/Lemonaid-Public) – Fastener quoting platform powered by Gemini API, FastAPI, React (TS), PostgreSQL, and AWS (Lambda, RDS, Cognito, S3).
 - [Fraud Risk Microservice](https://github.com/timjtchang/fraud-risk-microservice) – Real-time fraud ingestion and scoring microservice built with Spring Boot, DynamoDB, and REST APIs.
 - [Banking Backend](https://github.com/timjtchang/banking-backend) – Backend service for banking operations and transactions using Go, PostgreSQL, and REST APIs.
 - [Player League](https://github.com/timjtchang/player_league) – Player/match handling system implemented with Node.js, MongoDB, and GraphQL.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timjtchang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timjtchang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -36,7 +41,7 @@
   <a href="mailto:jentingc@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/jenhungchang](https://www.linkedin.com/in/jenting-chang/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/jenting-chang](https://www.linkedin.com/in/jenting-chang/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -44,8 +49,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/timjtchang/timjtchang/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
