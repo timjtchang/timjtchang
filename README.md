@@ -13,22 +13,6 @@
 
 ---
 
-## 🚀 Projects
-
-- **[Lemonaid AI Agent](https://github.com/Thousand-Dollar-Group/Lemonaid-Public)**  
-  Fastener quoting platform powered by Gemini API, FastAPI, React (TS), PostgreSQL, AWS (Lambda, RDS, Cognito, S3)
-
-- **[Fraud Risk Microservice](https://github.com/timjtchang/fraud-risk-microservice)**  
-  Real-time fraud ingestion and scoring using Spring Boot, DynamoDB, REST APIs
-
-- **[Banking Backend](https://github.com/timjtchang/banking-backend)**  
-  Banking operations backend using Go, PostgreSQL, and REST APIs
-
-- **[Player League](https://github.com/timjtchang/player_league)**  
-  Player/match handling system built with Node.js, MongoDB, and GraphQL
-
----
-
 ## 🛠 Tech Stack
 
 <div align="left">
