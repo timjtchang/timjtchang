@@ -19,7 +19,7 @@
   Fastener quoting platform powered by Gemini API, FastAPI, React (TS), PostgreSQL, AWS (Lambda, RDS, Cognito, S3)
 
 - **[Fraud Risk Microservice](https://github.com/timjtchang/fraud-risk-microservice)**  
-  Real-time fraud ingestion and scoring using Spring Boot, DynamoDB, REST APIs
+  Real-time fraud ingestion and scoring using Java with Spring Boot, DynamoDB, REST APIs
 
 - **[Banking Backend](https://github.com/timjtchang/banking-backend)**  
   Banking operations backend using Go, PostgreSQL, and REST APIs
