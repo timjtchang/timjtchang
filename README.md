@@ -19,7 +19,7 @@
   Fastener quoting platform powered by Gemini API, FastAPI, React (TS), PostgreSQL, AWS (Lambda, RDS, Cognito, S3)
 
 - **[QuantCore-Engine](https://github.com/timjtchang/QuantCore-Engine)**  
-  Real-time OBI engine for top-30 crypto assets using Kappa Architecture and CQRS via Kafka, Spark, Python, Go, Redis, gRPC, and Websocket
+  Real-time OBI engine for top-30 crypto assets using Kappa Arch and CQRS via Kafka, Spark, Python, Go, Redis, gRPC, and Websocket
 
 - **[Fraud Risk Microservice](https://github.com/timjtchang/fraud-risk-microservice)**  
   Real-time fraud ingestion and scoring using Java with Spring Boot, DynamoDB, REST APIs
