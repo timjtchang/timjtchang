@@ -18,6 +18,9 @@
 - **[Lemonaid AI Agent](https://github.com/Thousand-Dollar-Group/Lemonaid-Public)**  
   Fastener quoting platform powered by Gemini API, FastAPI, React (TS), PostgreSQL, AWS (Lambda, RDS, Cognito, S3)
 
+- **[QuantCore-Engine](https://github.com/timjtchang/QuantCore-Engine)**  
+  Real-time OBI engine for top-30 crypto assets using Kappa Architecture and CQRS via Kafka, Spark, Python, Go, Redis, gRPC, and Websocket
+
 - **[Fraud Risk Microservice](https://github.com/timjtchang/fraud-risk-microservice)**  
   Real-time fraud ingestion and scoring using Java with Spring Boot, DynamoDB, REST APIs
 
@@ -54,6 +57,10 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-005D9C?style=for-the-badge&logo=grpc&logoColor=white" title="gRPC" />
+  <img src="https://img.shields.io/badge/RPC-4A90E2?style=for-the-badge&logo=data%3Aimage/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMTAxMCAxMEE5Ljk5IDkuOTkgMCAwMDEyIDJtMCAyQTggOCAwIDEwMjAgMTJhOCA4IDAgMDA4LThIOSIvPjwvc3ZnPg==" style="border-radius:4px;" title="RPC" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" title="WebSocket" />
+
 
   <!-- 3. DevOps & Testing -->
   <h3>DevOps & Testing</h3>
@@ -65,6 +72,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=node.js&logoColor=white" title="Mocha Testing" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" title="Apache Kafka" />
+
+  
 
 </div>
 
