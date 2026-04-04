@@ -15,7 +15,7 @@
 
 ## 🚀 Projects
 
-- **[Gaia Multi-Agent](https://github.com/Thousand-Dollar-Group/Lemonaid-Public](https://github.com/timjtchang/gaia_multiagent)**  
+- **[Gaia Multi-Agent](https://github.com/timjtchang/gaia_multiagent)**  
   Hugging Face Assignment using LangGraph, featuring sub-agents for reasoning, web search, and file analysis.
 
 - **[Lemonaid GenAI System](https://github.com/Thousand-Dollar-Group/Lemonaid-Public)**  
