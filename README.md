@@ -15,7 +15,10 @@
 
 ## 🚀 Projects
 
-- **[Lemonaid AI Agent](https://github.com/Thousand-Dollar-Group/Lemonaid-Public)**  
+- **[Gaia Multi-Agent](https://github.com/Thousand-Dollar-Group/Lemonaid-Public](https://github.com/timjtchang/gaia_multiagent)**  
+  Hugging Face Assignment using LangGraph, featuring sub-agents for reasoning, web search, and file analysis.
+
+- **[Lemonaid GenAI System](https://github.com/Thousand-Dollar-Group/Lemonaid-Public)**  
   Fastener quoting platform powered by Gemini API, FastAPI, React (TS), PostgreSQL, AWS (Lambda, RDS, Cognito, S3)
 
 - **[QuantCore-Engine](https://github.com/timjtchang/QuantCore-Engine)**  
