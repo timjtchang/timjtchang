@@ -2,14 +2,21 @@
 
 ## 👨‍💻 About Me
 
-- Computer Engineering MS at University of Southern California ’25
-- Backend Software Engineer at **Crypto Arsenal (2024–2025)**
-  - Built backend for crypto payment gateway
-  - Integrated HTX into the trading platform
-  - Optimized AWS infrastructure
-- Software Engineer at **Realplus Tech (2019–2023)**
-  - Developed vehicle backend
-  - Built drone visual programming tools
+- Computer Engineering MS @ USC
+
+- Backend Engineer @ **Crypto Arsenal (2024–2025)**
+
+  - Built Go payment gateway on AWS for ERC-20 transactions
+
+  - Developed TypeScript HTX trading adapter (6K+ users)
+
+  - Cut CloudWatch logs 64% via custom Fluent Bit parser
+
+- Software Engineer @ **Realplus Tech (2019–2022)**
+
+  - Built Python backend for 4WS vehicle (ROS pub-sub)
+
+  - Engineered Node.js drone backend with Blockly (500+ users)
 
 ---
 
