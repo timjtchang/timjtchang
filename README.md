@@ -29,7 +29,7 @@
   Fastener quoting platform powered by Gemini API, FastAPI, React (TS), PostgreSQL, AWS (Lambda, RDS, Cognito, S3)
 
 - **[QuantCore-Streamer](https://github.com/timjtchang/QuantCore-Streamer)**  
-  Real-time OBI streamer for top-30 crypto assets using Kappa & CQRS via Kafka, Spark, Redis, gRPC, Websocket, Terraform
+  Real-time OBI streamer for top-30 crypto assets using Kappa via Kafka, Spark, Redis, gRPC, Websocket, Terraform
 
 - **[Fraud Risk Microservice](https://github.com/timjtchang/fraud-risk-microservice)**  
   Real-time fraud ingestion and scoring using Java with Spring Boot, DynamoDB, REST APIs
